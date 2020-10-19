@@ -1,0 +1,11 @@
+.flex-table
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.table-row
+{
+    display:flex;
+   flex-direction: row;
+}
